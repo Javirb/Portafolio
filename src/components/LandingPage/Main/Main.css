@@ -1,0 +1,192 @@
+/* Sección Estudios */
+.estudios {
+    background-color: #f0f0f0;
+    border-radius: 25px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    max-width: 70%;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+  }
+  
+  .estudios h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #4b8046;
+  }
+  
+  .contenedor-estudios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .estudio {
+    margin: 20px 0;
+    text-align: center;
+  padding-bottom: 20px; /* Ajusta según sea necesario */
+  border-bottom: 1px solid #ccc; 
+  }
+  
+  .estudio:last-child {
+  border-bottom: none;
+  }
+  
+  .estudio h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .estudio p {
+    font-size: 16px;
+  }
+  
+  /* Sección Experiencia */
+  .experiencia {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    max-width: 70%;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    
+  }
+  
+  .experiencia h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #4b8046;
+    
+  }
+  
+  .contenedor-experiencia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  
+  .trabajo {
+    margin: 20px 0;
+    text-align: center;
+    padding-bottom: 20px; /* Ajusta según sea necesario */
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  .trabajo:last-child {
+    border-bottom: none;
+  }
+  .trabajo h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .trabajo p {
+    font-size: 16px;
+  }
+  
+  /* Sección Contacto */
+  .contacto {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    max-width: 70%;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contacto h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #4b8046;
+  }
+  
+  .informacion-contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .dato-contacto {
+    margin: 20px 0;
+    text-align: center;
+    padding-bottom: 20px; /* Ajusta según sea necesario */
+    border-bottom: 1px solid #ccc; 
+  }
+  
+  .dato-contacto:last-child {
+    border-bottom: none;
+  }
+  
+  .dato-contacto h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .dato-contacto p {
+    font-size: 16px;
+  }
+  
+  /* Sección Proyectos */
+  .proyectos {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    max-width: 70%;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .proyectos h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #4b8046;
+  }
+  
+  .contenedor-proyectos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .proyecto {
+    margin: 20px 0;
+    text-align: center;
+    padding-bottom: 20px; /* Ajusta según sea necesario */
+    border-bottom: 1px solid #ccc; 
+    text-decoration: none; /* Sin subrayado */
+    
+  }
+  .proyecto a:hover {
+    color: #3a6248; /* Color al pasar el ratón por encima */
+    text-decoration: underline; /* Subrayado al pasar el ratón por encima */
+  }
+  
+  .proyecto:last-child {
+    border-bottom: none;
+  }
+  
+  .proyecto h3 {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .proyecto p {
+    font-size: 16px;
+  }
+  

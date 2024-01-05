@@ -1,0 +1,64 @@
+#about {
+    width: 100%;
+    height: 65vh;
+    position: relative;
+    margin-top: 5%;
+  }
+  
+  .about-info {
+    position: absolute;
+    left: 8%;
+    right: 8%;
+    transform: translate(5%, 43%);
+    margin-bottom: -10rem;
+  }
+  
+  #about h1 {
+    font-size: 40px;
+    color: #1e293b;
+    margin: 0.5rem 0 1rem 0;
+  }
+  
+  #about h3 {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #4b8046;
+  }
+  
+  #about p {
+    font-size: 16px;
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+    width: 50%;
+  }
+  
+  .about_btn button {
+    padding: 9px 25px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 1px solid;
+    color: #fff;
+    background-color: #4b8046;
+    display: inline-block;
+  }
+  
+  .about_btn button:hover {
+    background-color: #4b8046;
+    color: #fff;
+    transform: scale(1.1);
+    transition: 0.4s;
+  }
+  
+  .img-about img {
+    width: 30%;
+    max-width: 50%;
+    height: auto;
+    position: absolute;
+    left: 80%;
+    top: 10%;
+    transform: translateX(-80%);
+    border-radius: 30px;
+    box-shadow: 1px 1px 15px -3px rgba(39, 39, 39, 0.5);
+  }
