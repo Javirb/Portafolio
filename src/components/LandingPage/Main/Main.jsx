@@ -68,21 +68,21 @@ const Main = () => {
     <div className="proyecto">
       <h3>Icono testing</h3>
       <p>Desarollo de una página de pruebas</p>
-      <a href="https://riddick.netlify.app" target="_blank">Ver Proyecto</a>
+      <a href="https://riddick.netlify.app" >Ver Proyecto</a>
 
     </div>
 
     <div className="proyecto">
       <h3>Portafolio</h3>
       <p>Desarollo de un portafolio</p>
-      <a href="https://61a538f8eede2d00637a5758--portafolio-javier-romero.netlify.app/" target="_blank">Ver Proyecto</a>
+      <a href="https://61a538f8eede2d00637a5758--portafolio-javier-romero.netlify.app/">Ver Proyecto</a>
 
     </div>
 
     <div className="proyecto">
       <h3>Newsletter</h3>
       <p>Desarollo de un Newsletter</p>
-      <a href="https://newletter-javier-romero.netlify.app/" target="_blank">Ver Proyecto</a>
+      <a href="https://newletter-javier-romero.netlify.app/" >Ver Proyecto</a>
 
     </div>
 
