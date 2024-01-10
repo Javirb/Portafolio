@@ -1,5 +1,5 @@
 NETLIFY 
-https://master--react-portafolio-jrb.netlify.app/contact
+https://master--react-portafolio-jrb.netlify.app/
 
 
 # Getting Started with Create React App
